@@ -4,7 +4,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Ryan Smith"
 #property version "1.00"
-#property description "Linear Regression"
+#property description "Linear Regression Line indicator"
 
 #property indicator_chart_window
 #property indicator_buffers 1
