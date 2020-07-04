@@ -1,7 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                          RS_LinearRegression.mq5 |
 //|                                                     Smith R., D. |
-//|                                            ryan.smithnz@live.com |
 //+------------------------------------------------------------------+
 #property copyright "Ryan Smith"
 #property version "1.00"
