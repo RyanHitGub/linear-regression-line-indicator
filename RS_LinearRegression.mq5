@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                          RS_LinearRegression.mq5 |
-//|                                                     Smith R., D. |
+//|                                       Copyright 2020, Ryan Smith |
 //+------------------------------------------------------------------+
 #property copyright "Ryan Smith"
 #property version "1.00"
